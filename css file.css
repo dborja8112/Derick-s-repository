@@ -1,0 +1,11 @@
+.name {
+    font-family: cursive;
+    color: gray;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blue;
+}
+body{
+    background-color: cyan;
+}
